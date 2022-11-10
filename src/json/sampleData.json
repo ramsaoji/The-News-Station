@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Twitter to make job cuts after Elon Musk takeover - BBC",
+      "description": "The social media giant says staff will be told on Friday whether they are to be laid off.",
+      "url": "https://www.bbc.com/news/technology-63495125",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F5BF/production/_127511926_gettyimages-1438035712.jpg",
+      "publishedAt": "2022-11-04T05:45:57Z",
+      "content": "Twitter says it will inform its staff on Friday about whether they will be laid off following the firm's takeover by Elon Musk.\r\nIn an internal email, the social media company said the cuts are \"an e… [+4951 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Twitter Sued for Mass Layoffs by Musk Without Enough Notice - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=4a3b26df-5c0e-11ed-859f-494a59425744&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMS0wNC90d2l0dGVyLXN1ZWQtZm9yLW1hc3MtbGF5b2Zmcy1ieS1tdXNrLXdpdGhvdXQtZW5vdWdoLW5vdGljZQ==",
+      "urlToImage": null,
+      "publishedAt": "2022-11-04T05:43:00Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sarah Min",
+      "title": "Stock futures little changed as Wall Street anticipates October jobs report - CNBC",
+      "description": "The Friday jobs report will give investors clues into where the economy stands, and how much work the Federal Reserve has left to bring down inflation.",
+      "url": "https://www.cnbc.com/2022/11/03/stock-market-futures-open-to-close-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107098194-1659540050047-trad5.jpg?v=1667512992&w=1920&h=1080",
+      "publishedAt": "2022-11-04T04:33:00Z",
+      "content": "U.S. stock futures were flat Friday morning after the major averages dropped for a fourth day, and investors looked ahead to the October jobs report for clues into the pace of future rate hikes from … [+1912 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Brenda Goodman",
+      "title": "New antibiotic appears to be effective against urinary tract infections, drug company says - CNN",
+      "description": "The first new type of antibiotic developed in more than 20 years to treat urinary tract infections (UTIs) appears to be so effective that the pharmaceutical company stopped testing and will soon submit its data to the US Food and Drug Administration for appro…",
+      "url": "https://www.cnn.com/2022/11/03/health/new-uti-antibiotic-gepotidacin/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/140523181826-e-coli-file.jpg?q=x_0,y_241,h_1687,w_2999,c_crop/w_800",
+      "publishedAt": "2022-11-04T03:30:00Z",
+      "content": "The first new type of antibiotic developed in more than20 years to treat urinary tract infections (UTIs) appears to be so effective that the pharmaceutical company stopped testing and will soon submi… [+4394 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KOMO News"
+      },
+      "author": "Jackie Kent, KOMO News Reporter",
+      "title": "What Amazon's hiring freeze means for Seattle businesses, job seekers - KOMO News",
+      "description": "Amazon is pumping the brakes on hiring for its entire corporate workforce for at least the next few months, according to a company announcement Thursday. It's t",
+      "url": "https://komonews.com/news/local/seattle-based-amazon-to-halt-corporate-hiring-during-economic-downturn-twitter-lyft-seattle-washington-university-tech",
+      "urlToImage": "https://komonews.com/resources/media/31204888-d4ef-4dad-861c-1c5d630800e9-large16x9_AP22097842350486.jpg?1667524655090",
+      "publishedAt": "2022-11-04T01:56:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Catherine Rampell",
+      "title": "Opinion | Elon Musk decides to set $44 billion investment in Twitter on fire - The Washington Post",
+      "description": "As Twitter advertisers run for the exits, the world’s richest man seems to be setting his $44 billion investment on fire.",
+      "url": "https://www.washingtonpost.com/opinions/2022/11/03/elon-musk-twitter-advertisers-content-moderation/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAF7EDKR5ZPSCUOOF2AXANE7QM.jpg&w=1440",
+      "publishedAt": "2022-11-04T01:15:00Z",
+      "content": "Comment on this story\r\nAs Twitter advertisers run for the exits, the worlds richest man has apparently decided to set his $44 billion investment on fire.\r\nSome might say Elon Musk, who last week beca… [+4846 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Billions being spent in metaverse land grab - BBC",
+      "description": "Corporations, speculators and individuals have spent nearly $2bn (£1.75bn) on virtual plots.",
+      "url": "https://www.bbc.com/news/technology-63488059",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16F10/production/_127486939_ee2c969d-a2a6-4d6c-98f2-88a35e17e904.jpg",
+      "publishedAt": "2022-11-04T00:11:18Z",
+      "content": "Nearly $2bn (£1.75bn) has been spent on virtual land in the past 12 months, as people and companies race to get a foothold in the metaverse, research shows. \r\nBut we are years away from the metaverse… [+6635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lee Ying Shan",
+      "title": "Asia markets slip ahead of U.S. jobs report - CNBC",
+      "description": "Asia-Pacific markets opened lower on Friday as markets continued to process the U.S. Federal Reserve's 75 basis point interest rate hike.",
+      "url": "https://www.cnbc.com/2022/11/04/asia-markets-currency-stocks-markets-us-jobs-report.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106788828-1604964906278-gettyimages-1229336423-JAPAN_TRADING.jpeg?v=1667519301&w=1920&h=1080",
+      "publishedAt": "2022-11-04T00:10:00Z",
+      "content": "Asia-Pacific markets opened lower on Friday as markets continued to process the U.S. Federal Reserve's 75 basis point interest rate hike.\r\nJapan's Nikkei 225's fell 1% in early trade. The Topix slid … [+924 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "James Rubin",
+      "title": "Twitter Halts Work on Crypto Wallet: Report; Dogecoin Drops 8% - CoinDesk",
+      "description": "DOGE had more than doubled as Elon Musk completed his Twitter takeover, fueled by optimism he might push crypto-favorable initiatives at the company.",
+      "url": "https://www.coindesk.com/business/2022/11/04/twitter-halts-work-on-crypto-wallet-report-dogecoin-drops-4/",
+      "urlToImage": "https://www.coindesk.com/resizer/8ygLpKk6dw1gdAz9AXNsP9uVF10=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/464XRSOK5NBKVBHB5H32BF3WBY.jpg",
+      "publishedAt": "2022-11-04T00:07:00Z",
+      "content": "Social media platform Twitter has halted its plans to build a crypto wallet as part of ongoing changes kickstarted last week by its new owner, Elon Musk, the online publication Platformer wrote Thurs… [+1214 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "WA court pauses Albertsons’ $4B payout to shareholders amid Kroger merger - The Seattle Times",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMibmh0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vYnVzaW5lc3Mvd2EtanVkZ2UtcGF1c2VzLWFsYmVydHNvbnMtNGItcGF5b3V0LXRvLXNoYXJlaG9sZGVycy1hbWlkLWtyb2dlci1tZXJnZXIv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-11-03T23:42:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "PayPal's \"prudent\" revenue growth forecast cut sinks shares - Reuters",
+      "description": "Online payments firm PayPal Holdings Inc <a href=\"https://www.reuters.com/companies/PYPL.O\" target=\"_blank\">(PYPL.O)</a> cut its annual revenue growth forecast in anticipation of a broader economic downturn and said it did not expect much growth in its U.S. e…",
+      "url": "https://www.reuters.com/technology/paypal-third-quarter-revenue-jumps-online-shopping-picks-up-pace-2022-11-03/",
+      "urlToImage": "https://www.reuters.com/resizer/-t2LXev3Lo4wcruoRSA7Ev6nyFM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JDVJOYZF3FIN7HPCBJJSMLQKXA.jpg",
+      "publishedAt": "2022-11-03T23:37:00Z",
+      "content": "Nov 3 (Reuters) - Online payments firm PayPal Holdings Inc (PYPL.O) cut its annual revenue growth forecast in anticipation of a broader economic downturn and said it did not expect much growth in its… [+1908 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Jim Cramer says to parse the Dow for recession-resilient stocks - CNBC Television",
+      "description": "Cramer on Thursday advised investors on how to find recession-resilient stocks.",
+      "url": "https://www.youtube.com/watch?v=pxhsC9DTFhs",
+      "urlToImage": "https://i.ytimg.com/vi/pxhsC9DTFhs/maxresdefault.jpg",
+      "publishedAt": "2022-11-03T23:36:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Sebastian Herrera, Preetika Rana, Emily Glazer",
+      "title": "Layoffs Hit Tech Sector With Force as Amazon, Lyft Warn of Economic Downturn - The Wall Street Journal",
+      "description": "Twitter is planning thousands of job cuts, and other companies are paring back after unprecedented growth during the pandemic",
+      "url": "https://www.wsj.com/articles/amazon-is-pausing-hiring-for-corporate-workforce-11667494267",
+      "urlToImage": "https://images.wsj.net/im-658260/social",
+      "publishedAt": "2022-11-03T23:17:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Krystal Hur",
+      "title": "Cramer's lightning round: I'm sticking with Nvidia - CNBC",
+      "description": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+      "url": "https://www.cnbc.com/2022/11/03/cramers-lightning-round-im-sticking-with-nvidia.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/103507383-Lightning-Round.jpg?v=1667517209&w=1920&h=1080",
+      "publishedAt": "2022-11-03T23:13:02Z",
+      "content": "Nvidia Corp: \"I know it's overvalued right now. ... I think a year from now, the stock's going to be higher, and I'm sticking with Nvidia.\"\r\nGoPro Inc: \"I said sell that stock. ... $95, never looked … [+721 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Detroit Free Press"
+      },
+      "author": ", Detroit Free Press",
+      "title": "Rocket Companies sees $96M profit as mortgage volume falls - Detroit Free Press",
+      "description": "Rocket Companies and other lenders continue to experience a year-over-year plunge in mortgage origination volume as mortgage rates rise.",
+      "url": "https://www.freep.com/story/money/business/2022/11/03/rocket-companies-third-quarter/69613229007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/03/PDTF/60c614b4-eb5f-48e4-aec9-4f00fe8b6c30-rocket_mortgage.jpg?auto=webp&crop=3635,2045,x0,y167&format=pjpg&width=1200",
+      "publishedAt": "2022-11-03T22:30:00Z",
+      "content": "Dan Gilbert's Rocket Companies managed $96 million in net income, or profit, in the third quarter as rising interest rates continue to inflict pain across the mortgage industry.\r\nRocket Companies, th… [+4229 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Scott Chipolina",
+      "title": "Coinbase blames sagging crypto volumes as revenue plummets - Financial Times",
+      "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+      "url": "https://www.ft.com/content/b1afe9ad-9a8d-44cc-9419-a06b464ed9ba",
+      "urlToImage": null,
+      "publishedAt": "2022-11-03T22:11:53Z",
+      "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Michael Sheetz",
+      "title": "Virgin Galactic CEO outlines remaining steps before commercial spaceflight service begins next year - CNBC",
+      "description": "Virgin Galactic CEO Michael Colglazier outlined the remaining steps before the space tourism company aims to launch its long-delayed service next year.",
+      "url": "https://www.cnbc.com/2022/11/03/virgin-galactic-q3-2022-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106810701-1607952051360-Virgin_Galactic_Pilots_on_their_way_to_the_Virgin_Galactic_Spaceflight_System.jpg?v=1667511943&w=1920&h=1080",
+      "publishedAt": "2022-11-03T21:45:43Z",
+      "content": "Virgin Galactic on Thursday reported a wider third-quarter loss from a year ago, with CEO Michael Colglazier outlining the remaining steps before the space tourism company aims to launch its long-del… [+1974 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Points Guy"
+      },
+      "author": "Cameron Sperance",
+      "title": "Marriott's profits soar, but trouble could be lurking around the corner - The Points Guy",
+      "description": "There are about 630 million reasons to celebrate at Marriott International’s headquarters this week, but even the company’s top executives note how quickly the company’s great financial fortune could change.",
+      "url": "https://thepointsguy.com/news/marriott-profits/",
+      "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2022/10/Marriott-Hotel-Sign_Jeremy-Moeller-.jpg",
+      "publishedAt": "2022-11-03T21:29:33Z",
+      "content": "There are about 630 million reasons to celebrate at Marriott Internationals headquarters this week, but even the companys top executives note how quickly the companys good financial fortune could cha… [+6318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seeking Alpha"
+      },
+      "author": "Liz Kiesche",
+      "title": "Block stock surges after Cash App, Square drive big Q3 earnings beat (NYSE:SQ) - Seeking Alpha",
+      "description": "Block (SQ) stock gained 14% in Thursday after-hours trading after the payment tech company's Q3 earnings and revenue exceeded Wall Street expectations as gross profit at both its Cash...",
+      "url": "https://seekingalpha.com/news/3901390-block-q3-earnings-beat",
+      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/960917516/image_960917516.jpg?io=getty-c-w750",
+      "publishedAt": "2022-11-03T21:26:00Z",
+      "content": "jetcityimage\r\nBlock (NYSE:SQ) stock gained 14% in Thursday after-hours trading after the payment tech company's Q3 earnings and revenue exceeded Wall Street expectations as gross profit at both its C… [+1770 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Jon Swartz",
+      "title": "Twilio's stock tumbles as quarterly loss, outlook spook investors - MarketWatch",
+      "description": "Shares of Twilio Inc. drops 22% in extended trading Thursday after the customer-engagement technology company reports mixed fiscal third-quarter results that...",
+      "url": "https://www.marketwatch.com/story/twilios-stock-tumbles-as-quarterly-loss-outlook-spook-investors-11667507129",
+      "urlToImage": "https://images.mktw.net/im-597947/social",
+      "publishedAt": "2022-11-03T21:25:00Z",
+      "content": "Shares of Twilio Inc. tumbled 22% in extended trading Thursday after the customer-engagement technology company reported mixed fiscal third-quarter results that met Wall Street analysts forecasts, bu… [+1803 chars]"
+    }
+  ]
+}
